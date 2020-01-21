@@ -1,0 +1,21 @@
+apiVersion: v1
+name: dirigible
+version: 1.0.0
+description: Eclipse Dirigible is Cloud Development platform, providing full-stack Web Application Development tools and runtime
+keywords:
+  - dirigible
+  - platform
+  - eclipse
+  - development
+  - applications
+  - in-system
+home:
+  - https://github.com/dirigiblelabs/charts/tree/master/dirigible
+maintainers:
+  - name: Yordan Pavlov
+    url: https://github.com/ThuF
+sources:
+  - https://github.com/dirigiblelabs/charts
+  - https://github.com/eclipse/dirigible/
+icon: https://raw.githubusercontent.com/eclipse/dirigible/master/logo/dirigible-logo-symbol.png
+
