@@ -9,8 +9,7 @@ keywords:
   - development
   - applications
   - in-system
-home:
-  - https://github.com/dirigiblelabs/charts/tree/master/dirigible
+home: https://github.com/dirigiblelabs/charts/tree/master/dirigible
 maintainers:
   - name: Yordan Pavlov
     url: https://github.com/ThuF
