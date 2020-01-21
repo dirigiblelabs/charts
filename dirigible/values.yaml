@@ -1,0 +1,12 @@
+replicaCount: 1
+image:
+  repository: dirigiblelabs/dirigible-all
+  tag: v.4.2.0
+env:
+  dirigibleThemeDefault: fiori
+service:
+  type: ClusterIP
+  port: 8080
+  targetPort: 8080
+ingress:
+  host: ""
