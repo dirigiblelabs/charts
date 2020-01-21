@@ -32,5 +32,6 @@ Session.vim
 
 # Chart dependencies
 *.tgz
+!**/docs/*.tgz
 
 .history
