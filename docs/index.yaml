@@ -24,7 +24,7 @@ entries:
     - https://github.com/dirigiblelabs/charts
     - https://github.com/eclipse/dirigible
     urls:
-    - https://github.com/dirigiblelabs/charts/releases/download/dirigible-1.0.1/dirigible-1.0.1.tgz
+    - https://github.com/dirigiblelabs/charts/releases/download/dirigible-v1.0.1/dirigible-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: 5.3.2
