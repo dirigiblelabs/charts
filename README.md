@@ -24,7 +24,7 @@ $ helm repo update
 Install Dirigible with Helm:
 
 ```console
-$ helm install dirigiblelabs/dirigible
+$ helm install dirigible dirigiblelabs/dirigible
 ```
 
 Resources:
