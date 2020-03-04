@@ -15,6 +15,12 @@ Add Dirigible Helm repo:
 $ helm repo add dirigiblelabs https://dirigiblelabs.github.io/charts
 ```
 
+Update repo:
+
+```console
+$ helm repo update
+```
+
 Install Dirigible with Helm:
 
 ```console
