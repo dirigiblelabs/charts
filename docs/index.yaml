@@ -1,10 +1,11 @@
 apiVersion: v1
 entries:
   dirigible:
-  - apiVersion: v1
-    created: 2020-01-21T16:25:24.038962-05:00
+  - apiVersion: v2
+    appVersion: 5.3.2
+    created: "2020-03-03T18:25:24.038962-02:00"
     description: Eclipse Dirigible is Cloud Development platform, providing full-stack Web Application Development tools and runtime.
-    digest: 7c578395c9d54978de03deb5881542faad2a514d4ca77ffd455b08dd719ecb71
+    digest: 7c578395c9d54978de03deb5881542faad2a514d4ca77ffd455b08dd719fdc82
     home: https://github.com/dirigiblelabs/charts/tree/master/dirigible
     icon: https://raw.githubusercontent.com/eclipse/dirigible/master/logo/dirigible-logo-symbol.png
     keywords:
@@ -15,12 +16,13 @@ entries:
     - applications
     - in-system
     maintainers:
-    - name: Yordan Pavlov
+    - email: yordan.pavlov@sap.com
+      name: Yordan Pavlov
       url: https://github.com/ThuF
     name: dirigible
     sources:
     - https://github.com/dirigiblelabs/charts
     - https://github.com/eclipse/dirigible
     urls:
-    - dirigible-1.0.0.tgz
+    - https://github.com/dirigiblelabs/charts/releases/download/dirigible-1.0.0/dirigible-1.0.0.tgz
     version: 1.0.0
