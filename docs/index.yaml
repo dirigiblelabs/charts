@@ -5,7 +5,7 @@ entries:
     appVersion: 5.3.2
     created: "2020-03-04T14:25:00.000000-02:00"
     description: Eclipse Dirigible is cloud development platform, providing full-stack Web Application Development tools and runtime.
-    digest: 876dca1a4e19701c2cf348d33b9a71b9310de6bb
+    digest: 35eadb6837c1a8d2db4aeff751188062c5d05a5b
     home: https://github.com/dirigiblelabs/charts/tree/master/dirigible
     icon: https://raw.githubusercontent.com/eclipse/dirigible/master/logo/dirigible-logo-symbol.png
     keywords:
