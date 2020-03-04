@@ -3,9 +3,9 @@ entries:
   dirigible:
   - apiVersion: v2
     appVersion: 5.3.2
-    created: "2020-03-04T14:40:00.000000-02:00"
+    created: "2020-03-04T14:45:00.000000-02:00"
     description: Eclipse Dirigible is cloud development platform, providing full-stack Web Application Development tools and runtime.
-    digest: 35eadb6837c1a8d2db4aeff751188062c5d05a5b
+    digest: a70e9b49bbc9f18b6abc50538abf9616eda8cd7a
     home: https://github.com/dirigiblelabs/charts/tree/master/dirigible
     icon: https://raw.githubusercontent.com/eclipse/dirigible/master/logo/dirigible-logo-symbol.png
     keywords:
