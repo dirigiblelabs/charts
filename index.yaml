@@ -2,6 +2,36 @@ apiVersion: v1
 entries:
   dirigible:
   - apiVersion: v2
+    appVersion: 5.8.1
+    created: "2021-03-05T23:49:33.143310172Z"
+    description: Eclipse Dirigible provides both development tools (Web IDE) and runtime
+      environment for In-System Development and Low-Code/No-Code Development.
+    digest: 140e0d079e902fef9c287ed5e635775a7af9e375c8b1ef1b67ec8fa7dd3765eb
+    home: https://www.dirigible.io
+    icon: https://raw.githubusercontent.com/eclipse/dirigible/master/logo/dirigible-logo-symbol.png
+    keywords:
+    - dirigible
+    - platform
+    - eclipse
+    - development
+    - applications
+    - in-system
+    - low-code
+    - no-code
+    - lcnc
+    maintainers:
+    - email: yordan.pavlov@sap.com
+      name: Yordan Pavlov
+      url: https://github.com/ThuF
+    name: dirigible
+    sources:
+    - https://github.com/eclipse/dirigible/
+    - https://github.com/dirigiblelabs/charts
+    type: application
+    urls:
+    - https://github.com/dirigiblelabs/charts/releases/download/dirigible-5.8.1/dirigible-5.8.1.tgz
+    version: 5.8.1
+  - apiVersion: v2
     appVersion: 5.8.0
     created: "2021-03-05T23:47:44.475203358Z"
     description: Eclipse Dirigible provides both development tools (Web IDE) and runtime
@@ -121,4 +151,4 @@ entries:
     urls:
     - https://github.com/dirigiblelabs/charts/releases/download/dirigible-1.0.0/dirigible-1.0.0.tgz
     version: 1.0.0
-generated: "2021-03-05T23:47:44.475220158Z"
+generated: "2021-03-05T23:49:33.143464873Z"
