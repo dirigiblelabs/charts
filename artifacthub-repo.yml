@@ -1,4 +1,4 @@
-#repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
+repositoryID: c961e4e4-cf54-47b0-b424-b8a3ac9b91ca
 owners: # (optional, used to claim repository ownership)
   - name: ThuF
     email: yordan.pavlov@sap.com
