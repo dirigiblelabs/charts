@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: dirigiblelabs/dirigible-kyma
+  repository: dirigiblelabs/dirigible-sap-kyma
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
