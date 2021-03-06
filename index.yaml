@@ -181,4 +181,36 @@ entries:
     urls:
     - https://github.com/dirigiblelabs/charts/releases/download/dirigible-1.0.0/dirigible-1.0.0.tgz
     version: 1.0.0
-generated: "2021-03-05T23:50:30.154627713Z"
+  dirigible-kyma:
+  - apiVersion: v2
+    appVersion: 5.8.2
+    created: "2021-03-06T10:16:52.806268649Z"
+    description: Eclipse Dirigible provides both development tools (Web IDE) and runtime
+      environment for In-System Development and Low-Code/No-Code Development.
+    digest: ada2a54376565d7a731a5ccc9936991171524692871f5133338c68a4aba06ec4
+    home: https://www.dirigible.io
+    icon: https://raw.githubusercontent.com/eclipse/dirigible/master/logo/dirigible-logo-symbol.png
+    keywords:
+    - kyma
+    - dirigible
+    - platform
+    - eclipse
+    - development
+    - applications
+    - in-system
+    - low-code
+    - no-code
+    - lcnc
+    maintainers:
+    - email: yordan.pavlov@sap.com
+      name: Yordan Pavlov
+      url: https://github.com/ThuF
+    name: dirigible-kyma
+    sources:
+    - https://github.com/eclipse/dirigible/
+    - https://github.com/dirigiblelabs/charts
+    type: application
+    urls:
+    - https://github.com/dirigiblelabs/charts/releases/download/dirigible-kyma-5.8.2/dirigible-kyma-5.8.2.tgz
+    version: 5.8.2
+generated: "2021-03-06T10:16:52.806287649Z"
