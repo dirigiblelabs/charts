@@ -32,10 +32,14 @@ spec:
               containerPort: 8080
               protocol: TCP
           livenessProbe:
+            failureThreshold: 5
+            periodSeconds: 10
             httpGet:
               path: /
               port: http
           readinessProbe:
+            failureThreshold: 5
+            periodSeconds: 10
             httpGet:
               path: /services/v4/healthcheck
               port: http
